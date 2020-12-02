@@ -1,3 +1,7 @@
+An App which generates and filters Robot pictures is created using ReactJS.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
